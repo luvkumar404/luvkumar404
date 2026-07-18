@@ -1,4 +1,4 @@
-# Hi, I'm Love Kumar Chaudhary 👋
+# Hi, I'm Love Kumar Chaudhary 
 
 I'm a Computer Science undergraduate passionate about backend engineering, distributed systems, and building scalable software. I enjoy designing reliable systems, exploring database internals, and applying AI to real-world problems.
 
@@ -8,11 +8,26 @@ Previously, I worked as a **Software Engineer Intern** at **Success Ladder Techn
 - Designed a secure multi-tenant architecture supporting multiple workspaces.
 - Contributed to backend scalability, SaaS infrastructure, and AI automation.
 
+## Featured Projects
+
+### File Share
+A secure file-sharing platform built with **FastAPI, PostgreSQL, React, and Tailwind CSS**, featuring JWT authentication, Cloudinary storage, malware scanning, and protected share links.
+
+**Tech:** FastAPI • PostgreSQL • React • Tailwind CSS • JWT • Cloudinary
+
+🔗 **GitHub:** https://github.com/luvkumar404/file-share
+
+### Marketing ERP
+A full-featured ERP system for marketing companies with role-based access control, lead management, task management, attendance tracking, sales targets, product management, and analytics.
+
+**Tech:** FastAPI • React • PostgreSQL • RBAC
+
+🔗 **GitHub:** https://github.com/luvkumar404/marketing-erp
+
 ## Interests
 
 - Backend Engineering
 - Distributed Systems
-- System Architecture
 - Low-Latency Systems
 - Microservices
 - Databases
