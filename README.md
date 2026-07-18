@@ -17,6 +17,6 @@ Previously, I worked as a **Software Engineer Intern** at **Success Ladder Techn
 
 ## Tech
 
-**Java • JavaScript • Python • FastAPI • Node.js • MERN • SQL • MongoDB • Docker • Linux • Bash • GitHub Actions • AWS (EC2, S3, IAM) • Git**
+**Java • JavaScript • Python • FastAPI • Node.js • React • SQL • MongoDB • Docker • Linux • Bash • GitHub Actions • AWS (EC2, S3, IAM) • Git**
 
 Currently learning more about distributed systems, system design, database internals, advanced algorithms, and high-performance backend engineering.
