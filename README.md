@@ -2,12 +2,11 @@ I'm a Computer Science undergraduate passionate about backend engineering, distr
 
 ## Interests
 
-- Backend Engineering
+- Software Engineering
 - Distributed Systems
 - Low-Latency Systems
 - Microservices
 - Databases
-- AI Agents, LLMs & RAG
 
 ## Tech
 
