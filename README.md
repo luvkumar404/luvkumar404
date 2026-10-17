@@ -1,15 +1,20 @@
-I'm a Computer Science undergraduate passionate about backend engineering, distributed systems, and building scalable software. I enjoy designing reliable systems, exploring database internals, and applying AI to real-world problems.
+# Love Kumar Chaudhary
 
-## Interests
+Computer Science Undergraduate Student, Ex - Software Engineer Intern @ SLT
 
-- Software Engineering
-- Distributed Systems
-- Low-Latency Systems
-- Microservices
-- Databases
+Building and learning: full-stack products that feel simple on the surface and hold up underneath.
 
-## Tech
+[LinkedIn](https://linkedin.com/in/love-kumar-chaudhary) · [Email](mailto:lovechaudhary1090@gmail.com) · Based in India
 
-**Java • JavaScript • Python • FastAPI • Node.js • React • SQL • MongoDB • Docker • Linux • Bash • GitHub Actions • AWS (EC2, S3, IAM) • Git**
+## Projects
 
-Currently learning more about distributed systems, system design, database internals, advanced algorithms, and high-performance backend engineering.
+- **[FileShare](https://github.com/luvkumar404/fileshare)** — Upload a file, get a link, and share it securely in seconds.
+- **[Marketing ERP](https://github.com/luvkumar404/marketing-erp)** — One dashboard to run campaigns, leads, and payments for a marketing team.
+- **[codebase-qna](https://github.com/luvkumar404/codebase-qna)** — Ask questions about any repository in plain English and get answers grounded in the code.
+
+## Tech Stack
+
+**Frontend:** Next.js, TypeScript, shadcn/ui
+**Backend:** Node.js, Express.js, Java
+**Database:** PostgreSQL, MongoDB
+**Auth & Payments:** Clerk, OAuth, Razorpay 
