@@ -14,7 +14,7 @@ Building and learning: full-stack products that feel simple on the surface and h
 
 ## Tech Stack
 
-**Frontend:** Next.js, TypeScript, shadcn/ui
-**Backend:** Node.js, Express.js, Java
-**Database:** PostgreSQL, MongoDB
+**Frontend:** Next.js, TypeScript, shadcn/ui<br>
+**Backend:** Node.js, Express.js, Java<br>
+**Database:** PostgreSQL, MongoDB<br>
 **Auth & Payments:** Clerk, OAuth, Razorpay 
