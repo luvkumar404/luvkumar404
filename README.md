@@ -8,9 +8,9 @@ Building and learning: full-stack products that feel simple on the surface and h
 
 ## Projects
 
-- **[FileShare](https://github.com/luvkumar404/fileshare)** — Upload a file, get a link, and share it securely in seconds.
+- **[FileShare](https://github.com/luvkumar404/file-share)** — Upload a file, get a link, and share it securely in seconds.
 - **[Marketing ERP](https://github.com/luvkumar404/marketing-erp)** — One dashboard to run campaigns, leads, and payments for a marketing team.
-- **[codebase-qna](https://github.com/luvkumar404/codebase-qna)** — Ask questions about any repository in plain English and get answers grounded in the code.
+- **[codebase-qna](https://github.com/luvkumar404/codebase-qn)** — Ask questions about any repository in plain English and get answers grounded in the code.
 
 ## Tech Stack
 
